@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying Software Engeeneiring at Universidade de Aveiro!
 - 🌱 I’m currently learning Java & React
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've studied music for 7 years andI have a kind of a degree
+- ⚡ Fun fact: I studied music for 7 years and I kinda have a degree 
 
 <div align="center">
     <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan1m4D&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="Anurag&#39;s GitHub stats"></p>
